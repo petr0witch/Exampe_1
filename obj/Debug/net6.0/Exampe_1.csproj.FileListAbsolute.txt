@@ -1,0 +1,15 @@
+C:\Users\Kirill\Desktop\C#\Exampe_1\bin\Debug\net6.0\Exampe_1.exe
+C:\Users\Kirill\Desktop\C#\Exampe_1\bin\Debug\net6.0\Exampe_1.deps.json
+C:\Users\Kirill\Desktop\C#\Exampe_1\bin\Debug\net6.0\Exampe_1.runtimeconfig.json
+C:\Users\Kirill\Desktop\C#\Exampe_1\bin\Debug\net6.0\Exampe_1.dll
+C:\Users\Kirill\Desktop\C#\Exampe_1\bin\Debug\net6.0\Exampe_1.pdb
+C:\Users\Kirill\Desktop\C#\Exampe_1\obj\Debug\net6.0\Exampe_1.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\C#\Exampe_1\obj\Debug\net6.0\Exampe_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Desktop\C#\Exampe_1\obj\Debug\net6.0\Exampe_1.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\C#\Exampe_1\obj\Debug\net6.0\Exampe_1.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\C#\Exampe_1\obj\Debug\net6.0\Exampe_1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\C#\Exampe_1\obj\Debug\net6.0\Exampe_1.dll
+C:\Users\Kirill\Desktop\C#\Exampe_1\obj\Debug\net6.0\refint\Exampe_1.dll
+C:\Users\Kirill\Desktop\C#\Exampe_1\obj\Debug\net6.0\Exampe_1.pdb
+C:\Users\Kirill\Desktop\C#\Exampe_1\obj\Debug\net6.0\Exampe_1.genruntimeconfig.cache
+C:\Users\Kirill\Desktop\C#\Exampe_1\obj\Debug\net6.0\ref\Exampe_1.dll
